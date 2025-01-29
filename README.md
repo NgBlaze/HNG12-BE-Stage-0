@@ -34,3 +34,7 @@ cd your-repo
 ```bash
 php -S localhost:8000 index.php
 ```
+
+## Hiring Links
+
+- [PHP Developers](https://hng.tech/hire/php-developers)
