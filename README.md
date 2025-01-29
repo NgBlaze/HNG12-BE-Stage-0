@@ -25,7 +25,7 @@ This is a simple API with GET Request for the HNG12 internship:
 ## How to run locally
 
 ```bash
-git clone https://github.com/tulbadex/hng12-task0.git
+git clone https://github.com/NgBlaze/HNG12-BE-Stage-0.git
 cd your-repo
 ```
 
